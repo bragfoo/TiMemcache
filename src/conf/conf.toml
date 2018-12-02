@@ -1,0 +1,7 @@
+[dev]
+    RedisHost = "10.202.4.252:6080"
+    RedisPasswd = "768127af341a610f"
+
+[pro]
+    RedisHost = "10.202.4.252:6080"
+    RedisPasswd = "768127af341a610f"
